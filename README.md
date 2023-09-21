@@ -2,7 +2,7 @@
 
 Before you start building the model, make sure you have the following requirements installed:
 
-- Python (3.6 or higher)
+- Python (3.9 or higher)
 - TensorFlow (2.0 or higher) or PyTorch (1.0 or higher)
 - NumPy
 - Matplotlib (for visualization)
